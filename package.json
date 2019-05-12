@@ -1,0 +1,19 @@
+{
+  "name": "main-portfolio",
+  "version": "0.9.0",
+  "description": "updated and newest version of portfolio for chisoo song",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cltn39/main-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cltn39/main-portfolio/issues"
+  },
+  "homepage": "https://github.com/cltn39/main-portfolio#readme"
+}
