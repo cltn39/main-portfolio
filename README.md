@@ -3,7 +3,7 @@ updated and new version of portfolio
 updated 07/29/2019
 
 ## What I used
-HTML5, Javascript, Jquery, Bootstrap, fontawesome, googlefont
+HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Travis
 
 ## Upcoming changes
 - will be updated and recreated with [React](https://reactjs.org/)
