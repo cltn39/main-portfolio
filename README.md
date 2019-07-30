@@ -16,4 +16,4 @@ HTML5, Javascript, Jquery, Bootstrap, fontawesome, googlefont
 [https://cltn39.github.io/main-portfolio/](https://cltn39.github.io/main-portfolio/)
 
 ## Preview
-[![image.png](https://i.postimg.cc/G2WfBc4m/image.png)](https://cltn39.github.io/main-portfolio/)
+![Image of Preview](/assets/img/preview.PNG)
