@@ -217,6 +217,23 @@ a:active {
   text-decoration: none;
 }
 
+a.js-scroll-trigger {
+  color:  bisque;
+}
+
+a.js-scroll-trigger:hover,
+a.js-scroll-trigger:focus,
+a.js-scroll-trigger:active {
+  background-image: none;
+  background-position: auto;
+  background-repeat: none;
+  background-size: 0%;
+  border-bottom: 10;
+  padding-bottom: 0em;
+  text-decoration: none;
+}
+
+
 /* vertical text swap animation */
 .Iam {
   padding: 2em 5em;
