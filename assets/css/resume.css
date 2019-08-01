@@ -10,6 +10,7 @@ body {
     "Segoe UI Symbol", "Noto Color Emoji";
   padding-top: 54px;
   color: #868e96;
+  background-color:  rgb(white);
 }
 
 @media (min-width: 992px) {
@@ -49,6 +50,7 @@ h2 {
 
 h2.cardBack {
   font-size: 2.2rem;
+  color: #868e96;
 }
 h3 {
   font-size: 2rem;
@@ -108,7 +110,7 @@ p.footer {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #0e53ad;
 }
 
 @media (min-width: 992px) {
@@ -124,7 +126,7 @@ p.footer {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 17rem;
+    width: 13rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -193,6 +195,10 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+#content {
+  position: absolute;
+}
+
 .bg-primary {
   background-color: #0e53ad !important;
 }
@@ -205,9 +211,9 @@ a {
   color: #0e53ad;
 }
 
-a:hover,
-a:focus,
-a:active {
+a.wiggly:hover,
+a.wiggly:focus,
+a.wiggly:active {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
   background-position: bottom;
   background-repeat: repeat-x;
@@ -216,23 +222,6 @@ a:active {
   padding-bottom: 0em;
   text-decoration: none;
 }
-
-a.js-scroll-trigger {
-  color:  bisque;
-}
-
-a.js-scroll-trigger:hover,
-a.js-scroll-trigger:focus,
-a.js-scroll-trigger:active {
-  background-image: none;
-  background-position: auto;
-  background-repeat: none;
-  background-size: 0%;
-  border-bottom: 10;
-  padding-bottom: 0em;
-  text-decoration: none;
-}
-
 
 /* vertical text swap animation */
 .Iam {
