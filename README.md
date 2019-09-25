@@ -1,6 +1,6 @@
 # main-portfolio
 updated and new version of portfolio
-updated 08/07/2019
+updated 09/24/2019
 
 ## What I used
 HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Travis, d3
@@ -16,6 +16,10 @@ HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Trav
  ## update note (08/07/2019)
  - updated work experence
  - fixed typos
+
+ ## update note (09/24/2019)
+ - fixed experience navbar
+ - added work experience that matches resume. 
 
 ## Upcoming changes
 - will be updated and recreated with [React](https://reactjs.org/)
