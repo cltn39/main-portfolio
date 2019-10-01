@@ -1,8 +1,21 @@
-# main-portfolio
-updated and new version of portfolio
+# main-portfolio 👋
+![Version](https://img.shields.io/badge/version-1.3.1-blue.svg?cacheSeconds=2592000)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/cltn39/main-portfolio#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/cltn39/main-portfolio/graphs/commit-activity)
+[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://github.com/cltn39/main-portfolio/blob/master/LICENSE)
+[![Twitter: cltn39](https://img.shields.io/twitter/follow/cltn39.svg?style=social)](https://twitter.com/cltn39)
+
+> updated and new version of portfolio
 updated 09/24/2019
 
-## What I used
+## Author
+
+👤 **Chris Song**
+
+* Twitter: [@cltn39](https://twitter.com/cltn39)
+* Github: [@cltn39](https://github.com/cltn39)
+
+## 🤝 What I used
 HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Travis, d3
 
 ## update note (07/31/2019)
@@ -26,9 +39,20 @@ HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Trav
 - additional animation
 - Compartmentalization of codes
 
+## Show your support
 
-## Link
+Give a ⭐️ if this project helped you!
+
+## 🏠 Link
 [https://cltn39.github.io/main-portfolio/](https://cltn39.github.io/main-portfolio/)
 
-## Preview
+## 🏠 Preview
 ![Image of Preview](/assets/img/preview.PNG)
+
+## 📝 License
+
+Copyright © 2019 [Chris Song](https://github.com/cltn39).
+
+This project is [ISC](https://github.com/cltn39/background-widget/blob/master/LICENSE) licensed.
+
+***
