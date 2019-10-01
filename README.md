@@ -30,7 +30,7 @@ HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Trav
  - updated work experence
  - fixed typos
 
- ## update note (09/24/2019)
+ ## update note (09/27/2019)
  - fixed experience navbar
  - added work experience that matches resume. 
 
