@@ -34,6 +34,11 @@ HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Trav
  - fixed experience navbar
  - added work experience that matches resume. 
 
+ ## update note (10/26/2019)
+ - Added additional work experience
+ - Changed descriptions under work experiences
+ - Added Adobe creative suites as additional skills
+ 
 ## Upcoming changes
 - will be updated and recreated with [React](https://reactjs.org/)
 - additional animation
