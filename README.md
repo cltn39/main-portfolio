@@ -18,6 +18,9 @@ updated 09/24/2019
 ## 🤝 What I used
 HTML5, Javascript, Jquery, Bootstrap, CSS, fontawesome, googlefont, eslint, Travis, d3
 
+## update note (12/172019)
+ - Updated work experience up to date.
+ 
 ## update note (07/31/2019)
  - Added background 'ball of yarn' animation
  - updated 'Recent project' section
